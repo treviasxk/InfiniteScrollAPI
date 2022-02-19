@@ -11,4 +11,4 @@
  | Variável | Descrição |
 |-----------|---------------|
 | jsonUrl(String) | É a URL do API Json.|
-| jsonBuffering(Int) | É um Height, você pode definir o valor de altura que você quer que já fique carregado.|
+| jsonIndex(Int) | É o index da lista json que está sendo acessado.|
